@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureHRSync.Api", "backend\SecureHRSync.Api\SecureHRSync.Api.csproj", "{CAFFCF1C-B7C6-495C-A577-0BB6FCE9E258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFFCF1C-B7C6-495C-A577-0BB6FCE9E258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFFCF1C-B7C6-495C-A577-0BB6FCE9E258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFFCF1C-B7C6-495C-A577-0BB6FCE9E258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFFCF1C-B7C6-495C-A577-0BB6FCE9E258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E123F749-3F29-4522-845C-CB8C5143EFD7}
+	EndGlobalSection
+EndGlobal
